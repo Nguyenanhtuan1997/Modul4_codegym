@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  function solve(n, s) {
+    let count = 0;
+    let consecutiveCount = 1;
+
+    for (let i = 1; i < s.length; i ++) {
+      if (s[i] === s[i - 1]) {
+        consecutiveCount++;
+      } else {
+        count += (consecutiveCount * (consecutiveCount + 1)) / 2;
+        consecutiveCount = 1;
+      }
+    }
+    count += (consecutiveCount * (consecutiveCount + 1)) / 2;
+    return count;
+  }
+</script>
+</body>
+</html>

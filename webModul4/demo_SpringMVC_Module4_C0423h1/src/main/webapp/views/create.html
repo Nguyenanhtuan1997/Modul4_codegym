@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+  <form action="/products/create" method="post" th:object="${product}" enctype="multipart/form-data">
+    <input th:field="*{id}"><br>
+    <input th:field="*{name}"><br>
+    <input th:field="*{price}"><br>
+    <input th:field="*{status}"><br>
+    <input name="fileImg"  type="file" onchange="showImg(this.files)"><br>
+    <img id="fileImg" width="300">
+    <select name="idCategory">
+      <option th:each="c : ${categories}" th:text="${c.name}" th:value="${c.id}"></option>
+    </select>
+    <button type="submit">Edit</button>
+  </form>
+</div>
+
+</body>
+</html>
+<script>
+  function showImg(file) {
+    let img = document.getElementById("fileImg");
+    img.src = URL.createObjectURL(file[0]);
+  }
+</script>

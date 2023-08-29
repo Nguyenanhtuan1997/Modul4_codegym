@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <form method="post" th:object="${student}">
+        <input th:field="*{name}"><br>
+        <input th:field="*{img}"><br>
+        <select name="idClass">
+            <option value="1">C03</option>
+            <option value="2">C04</option>
+        </select>
+        <button type="submit">ADD</button>
+    </form>
+</div>
+
+</body>
+</html>

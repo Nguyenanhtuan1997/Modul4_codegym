@@ -1,0 +1,24 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <form action="/products/edit" method="post" th:object="${product}">
+        <input th:field="*{id}"><br>
+        <input th:field="*{name}"><br>
+        <input th:field="*{price}"><br>
+        <input th:field="*{status}"><br>
+        <input th:field="*{img}"><br>
+        <select name="idCategory">
+            <option th:each="c : ${categories}" th:text="${c.name}" th:value="${c.id}"></option>
+        </select>
+        <button type="submit">Edit</button>
+    </form>
+</div>
+
+
+<div th:insert="~{footer :: toan2}"></div>
+
+</body>
+</html>

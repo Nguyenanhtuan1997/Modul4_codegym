@@ -1,0 +1,22 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div align="center">
+  <form action="/products/add" method="post" th:object="${products}">
+<!--    <input th:field="*{id}" hidden="hidden"><br>-->
+    <input th:field="*{name}" placeholder="Họ và tên"><br>
+    <input th:field="*{img}" placeholder="Ảnh"><br>
+    <input th:field="*{price}" placeholder="Giá"><br>
+      <select  th:field="*{category.id}">
+          <option th:each="c: ${categories}" th:value="${c.id}" th:text="${c.name}"></option>
+      </select>
+    <button type="submit">Add</button>
+  </form>
+</div>
+</body>
+</html>

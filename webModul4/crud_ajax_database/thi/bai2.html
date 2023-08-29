@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function solve(S) {
+        const charCount = new Map();
+        for (const char of S) {
+            charCount.set(char, (charCount.get(char) || 0) + 1);
+        }
+        let oddCount = 0;
+        for (const count of charCount.values()) {
+            if (count % 2 != 0) {
+                oddCount++;
+            }
+        }
+        return Math.max(0, oddCount -1);
+    }
+</script>
+</body>
+</html>
+

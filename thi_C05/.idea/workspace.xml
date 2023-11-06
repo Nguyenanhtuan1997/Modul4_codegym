@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42aba4aa-c5d4-4057-b485-0ba7193192b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../WebModul5/studentss/src/components/Create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/studentss/src/components/ListStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/studentss/src/components/Update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/studentss/src/components/create.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/thi_Modul5/demo1_c05/src/main/java/com/example/demo1_c05/controller/ToursController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/thi_Modul5/demo1_c05/src/main/java/com/example/demo1_c05/model/Tours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/thi_Modul5/demo1_c05/src/main/java/com/example/demo1_c05/repository/IToursRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/thi_Modul5/demo1_c05/src/main/java/com/example/demo1_c05/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/thi_Modul5/demo1_c05/src/main/java/com/example/demo1_c05/service/IToursService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/thi_Modul5/demo1_c05/src/main/java/com/example/demo1_c05/service/IToursServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebModul5/thi_Modul5/studentss/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thic05/src/components/Create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thic05/src/components/ListTours.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thic05/src/components/Update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thic05/src/components/create.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webModul4/thimodul4_C03_FE/gg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul3/Md3-Case-study-store" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul3/Md3-Case-study-store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/config/WebInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/config/WebInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/filter/UTF_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/filter/UTF_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_JPA/src/main/java/com/example/demo_jpa/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/java/com/filter/UTF_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/java/com/filter/UTF_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/java/com/model/ClassRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/java/com/model/ClassRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/java/com/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/java/com/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/webapp/WEB-INF/dipatcher_severlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/C05/demo_hibernate/src/main/webapp/WEB-INF/dipatcher_severlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/AreaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/AreaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/ImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/ImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/RoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/controller/RoomController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Oder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Oder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/model/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IAccountRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IAccountRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IAreaRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IAreaRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/ICategoryRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/ICategoryRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IImageRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IImageRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IOderRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IOderRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IRoleRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IRoleRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IRoomRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/repository/IRoomRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IAreaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IAreaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/ICategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/ICategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IOderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IOderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IRoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IRoomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/IService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/AreaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/AreaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/ImageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/ImageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/OderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/OderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/RoomServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/java/com/webthuenha/service/impl/RoomServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/query/query.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/BE_Web_Thue_Nha_C05/src/main/query/query.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/admin/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/admin/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/admin/account.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/admin/account.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/admin/room.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/admin/room.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/Area.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/Area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/Category.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/Category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/Room.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/Room.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/RoomByAre.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/Ajax_C05_FE/RoomByAre.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/product-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/shoping-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Case_Study_Modul4_C05/Web_Thue_Nha_C05/cozastore-master/shoping-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/config/FilterAuthToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/config/FilterAuthToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/config/SecurityInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/config/SecurityInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/Spring boot/src/main/java/com/springboot/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/crud_ajax_database/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/crud_ajax_database/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/controller/ClassRoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/controller/ClassRoomController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/model/ClassRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/model/ClassRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/repository/IStudentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/repository/IStudentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/service/IClassRoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/service/IClassRoomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/service/IRoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/service/IRoomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/service/IService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/de_thi_Modul4/src/main/java/com/de_thi_modul4/service/IService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/demo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/demo/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/java/com/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/java/com/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/java/com/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/java/com/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/webapp/views/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/webapp/views/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/webapp/views/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/demo_Spring_JPA/src/main/webapp/views/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/demo_hibernate/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/demo_hibernate/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/thiModul4_C04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/thiModul4_C04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/thimodul4_C03_FE/student.js" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/thimodul4_C03_FE/student.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/config/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/config/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/config/security/SecurityInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/config/security/SecurityInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1 - Security/src/main/java/com/web_service_c0423h1/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1/src/main/java/com/web_service_c0423h1/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1/src/main/java/com/web_service_c0423h1/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1/src/main/java/com/web_service_c0423h1/repository/IAccountRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1/src/main/java/com/web_service_c0423h1/repository/IAccountRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webModul4/web_service_c0423h1/src/main/java/com/web_service_c0423h1/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webModul4/web_service_c0423h1/src/main/java/com/web_service_c0423h1/service/AccountService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XEhyk1eMJmjrfApT20XMPm3iAn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/Modul 3/web/thi_C05/thic05/src/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Modul 3\web\thi_C05\thic05\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42aba4aa-c5d4-4057-b485-0ba7193192b9" name="Changes" comment="" />
+      <created>1698200403175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698200403175</updated>
+      <workItem from="1698200404348" duration="1603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

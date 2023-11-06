@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed8d9dc8-1333-47c9-9708-2282d1861e8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tour/view/css/TopRickMan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tour/view/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tour/view/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tour/view/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tour/view/FormLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tour/view/FormLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tour/view/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tour/view/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tour/view/TopPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tour/view/TopPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tour/view/TopRichMan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tour/view/TopRichMan.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XEgkZkilxu5mpeatzowgmnJhBG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Modul 3/web/WebModul6/FE/demo_case_md6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Modul 3\web\WebModul6\FE\demo_case_md6\src\tour\view" />
+      <recent name="D:\module5\node-1\demo-case-study\public\assets\img\game-icon" />
+      <recent name="D:\module5\node-1\demo-case-study\public\assets\img\chefs" />
+      <recent name="D:\module5\node-1\demo-case-study\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8d9dc8-1333-47c9-9708-2282d1861e8c" name="Changes" comment="" />
+      <created>1698199797002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698199797002</updated>
+      <workItem from="1698199798060" duration="4187000" />
+      <workItem from="1698458158481" duration="10048000" />
+      <workItem from="1698497487958" duration="10780000" />
+      <workItem from="1698547647565" duration="4866000" />
+      <workItem from="1698566486895" duration="8052000" />
+      <workItem from="1698584066158" duration="4264000" />
+      <workItem from="1698634376669" duration="23000" />
+      <workItem from="1698634992765" duration="7204000" />
+      <workItem from="1698648101149" duration="3453000" />
+      <workItem from="1698651784585" duration="9916000" />
+      <workItem from="1698714684261" duration="11360000" />
+      <workItem from="1698734835492" duration="4835000" />
+      <workItem from="1698899518323" duration="2164000" />
+      <workItem from="1698908479688" duration="999000" />
+      <workItem from="1698914297233" duration="14000" />
+      <workItem from="1698914530608" duration="4560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
